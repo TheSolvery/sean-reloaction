@@ -1,4 +1,4 @@
-# Sean's Relocation Services - Static Website
+# The Relocationist - Static Website
 
 This repository contains the source code for Sean's Relocation Services' simple static website. The website is built using GitHub Pages, Markdown, and CSS.
 
